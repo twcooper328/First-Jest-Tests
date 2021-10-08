@@ -16,8 +16,8 @@ SF:js\subtract.js
 FN:1,subtract
 FNF:1
 FNH:1
-FNDA:1,subtract
-DA:2,1
+FNDA:2,subtract
+DA:2,2
 DA:5,1
 LF:2
 LH:2
