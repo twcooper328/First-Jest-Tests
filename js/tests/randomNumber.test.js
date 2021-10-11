@@ -1,1 +1,0 @@
-const cloneArray = require('./randomNumber.js');

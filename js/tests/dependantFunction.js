@@ -1,7 +1,6 @@
-function areYouLucky({string, randomFn}) {
-    let randomNumber = randomFn()
-    
-    return `${string}, your lucky number is ${randomNumber}`
-}
+function addNado(prefixFn) {
+    return prefixFn('-nado');
+  }
+  
 
-module.exports = areYouLucky
+module.exports = addNado
