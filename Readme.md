@@ -1,10 +1,10 @@
 # Introduction to Testing - Read Me
 ![gif that shows test running](https://media.giphy.com/media/uttMYghH97SUbZj9ki/giphy.gif)
 
-This contains a handful of Javascript files that contain simple functions.
+This contains a handful of JavaScript files that contain simple functions.
 - sum.js
 - subtract.js
-- items. js
+- items.js
 - dependantFunction.js
 - assignVariable.js
 
@@ -22,8 +22,6 @@ After pulling down the repository, cd into the folder and run the command:
 - Jest - [Jest Documentation](https://jestjs.io/)
 - Webpack - [Webpack Documentation](https://webpack.js.org/)
 
-***
-
 ## Available Scripts
 
 From the project directory, in the terminal you can run:
@@ -32,17 +30,15 @@ From the project directory, in the terminal you can run:
 
 This will run all tests and output the coverage in the terminal.
 
-***
-
 ## Tests
 
-### AssignVariable
+### Assign Variable
 
 **assignVariable.test.js**
 Contains tests that:
 - test 'set-up' and 'tear-down' functions
 
-### Dependant Function
+### Dependent Function
 
 **dependantFunction.test.js**
 Contains tests that:
@@ -57,8 +53,7 @@ Contains tests that:
 - objects contain an "id" property
 - array is correct length
 - item names are correct
-- items doesn't contain a specific opbject
-
+- items doesn't contain a specific object
 
 ### Subtract
 
@@ -72,7 +67,7 @@ Contains tests that:
 
 **sum.test.js**
 Contains tests that:
-- returned values are accurete
+- returned values are accurate
 - sum add negative numbers
 - use the "toBeGreaterthan" function
 - use custom matchers
