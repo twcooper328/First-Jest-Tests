@@ -16,7 +16,7 @@ The purpose of this application is to familiarize myself with writing tests unit
 
 After pulling down the repository, cd into the folder and run the command:
 
-    npm Jest
+    npm test
 
 ### Software dependencies
 - Jest - [Jest Documentation](https://jestjs.io/)
