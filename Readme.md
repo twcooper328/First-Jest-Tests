@@ -34,20 +34,17 @@ This will run all tests and output the coverage in the terminal.
 
 ### Assign Variable
 
-**assignVariable.test.js**
-Contains tests that:
+**assignVariable.test.js** contains tests that:
 - test 'set-up' and 'tear-down' functions
 
 ### Dependent Function
 
-**dependantFunction.test.js**
-Contains tests that:
+**dependantFunction.test.js** contains tests that:
 - mock a function and runs tests to see if it was called
 
 ### Items
 
-**items.test.js**
-Contains tests that:
+**items.test.js** contains tests that:
 - match array with snapshot
 - see if array contains a specific object
 - objects contain an "id" property
@@ -57,16 +54,14 @@ Contains tests that:
 
 ### Subtract
 
-**subtract.test.js**
-Contains tests that:
+**subtract.test.js** contains tests that:
 - see if subtract returns a value
 - see if return value is accurate
 - see if returned value is correct type
 
 ### Sum
 
-**sum.test.js**
-Contains tests that:
+**sum.test.js** contains tests that:
 - returned values are accurate
 - sum add negative numbers
 - use the "toBeGreaterthan" function
