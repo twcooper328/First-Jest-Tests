@@ -1,4 +1,4 @@
-# Introduction to Testing - Read Me
+# Introduction to Testing
 ![gif that shows test running](https://media.giphy.com/media/uttMYghH97SUbZj9ki/giphy.gif)
 
 This contains a handful of JavaScript files that contain simple functions.
